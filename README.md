@@ -15,9 +15,9 @@ https://panel.meigo.ml
 |                  | 10      | :white_check_mark: | 1.8.0        |
 |                  | 8.1     | :white_check_mark: | 1.8.0        |
 |                  | 8       | :white_check_mark: | 1.8.0        |
-| Debian           | 7       | :white_check_mark: | 1.8.0        |
-|                  | 9       | :white_check_mark: | 1.8.0        |
-|                  | 10      | :white_check_mark: | 1.8.0        |
-| CentOS           | 6       | :red_circle:       | 1.8.0        |
 |                  | 7       | :white_check_mark: | 1.8.0        |
-|                  | 8       | :white_check_mark: | 1.8.0        |
+|                  | XP      | :white_check_mark: | 1.8.0        |
+|                  | 98      | :white_check_mark: | 1.8.0        |
+|                  | 95      | :red_circle:       | 1.8.0        |
+| Ubuntu Desktop   | 21.04   | :white_check_mark: | 1.8.0        |
+|                  | 20.04   | :red_circle:       | 1.8.0+JavaFX |
